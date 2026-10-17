@@ -1,0 +1,12 @@
+{
+	"name": "datalake",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://storageprojectspoify.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDU1QkI0MEYxLUQ2MjItNEIyNC1BMjQ1LTU1ODczN0MxMjhBRV84MGY5YjFlMC0xZGFkLTRiZmYtYTUyZi1lNTMyOWQ0ZGI4ZjkiDQp9"
+		}
+	}
+}
