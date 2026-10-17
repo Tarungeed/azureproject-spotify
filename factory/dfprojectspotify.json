@@ -1,0 +1,15 @@
+{
+	"name": "dfprojectspotify",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8d306b8-0c7a-4496-a3e0-9e8d428af7f8",
+		"tenantId": "7b977516-ab5d-4790-82d1-c1fbbe81ad03"
+	}
+}
